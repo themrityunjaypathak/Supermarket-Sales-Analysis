@@ -193,15 +193,15 @@ git clone https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis.git
 <hr>
 
 ## Conclusion
-Analyzed purchasing patterns of 9,000+ customers of a Supermarket.
+Analyzed purchasing patterns of 9,000+ customers of a supermarket.
 - More than 15% of the products sold were Snacks.
-    - Shows that Snacks are a convenient choice and a major source of revenue.
+  - Shows that Snacks are a convenient choice and a major source of revenue.
 - More than 32% of total sales came from the West region of the Supermarket.
-    - Suggests that West region is a strong performing area as compared to others.
+  - Suggests that West region is a strong-performing area as compared to others.
 - Health and Soft drinks were the most profitable sub-categories in Beverages.
-    - Shows that both type of drink options perform well among customers.
+  - Shows that both type of drink options perform well among customers.
 - November was the most profitable month contributing about 15% of the total annual profits.
-    - Makes it an ideal time for running promotions and special offers.
+  - Makes it an ideal time for running promotions and special offers.
 
 <div align='left'>
   
