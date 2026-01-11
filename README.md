@@ -58,7 +58,7 @@ pip install seaborn
 ## Getting Started
 - Clone this repository to your local machine by using the following command :
 ```bash
-git clone https://github.com/TheMrityunjayPathak/Supermarket-Sales-Analysis.git
+git clone https://github.com/themrityunjaypathak/Supermarket-Sales-Analysis.git
 ```
 
 <hr>
